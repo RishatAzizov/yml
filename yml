@@ -1,0 +1,151 @@
+       <?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-09-07T15:52:11+03:00">
+	<shop>
+		<name>domchasov.kz</name>
+		<company>Dom Chasov</company>
+		<url>https://dom-chasov.kz</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="KZT" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="156594196161">Men</category>
+			<category id="554721776401">Classic / Men</category>
+			<category id="310720303361">Casual / Men</category>
+			<category id="377509839961">Sport / Men</category>
+			<category id="836537665361">France / Men</category>
+			<category id="594093679841">Germany / Men</category>
+			<category id="566926723771">Switzerland / Men</category>
+			<category id="931408830971">Italy / Men</category>
+			<category id="403562412881">Chinese / Men</category>
+			<category id="297623047361">Ciga Design / Men</category>
+			<category id="910845234161">Chronotechna / Men</category>
+			<category id="378419025871">Ducati Corse / Men</category>
+			<category id="563946009231">Pierre Lannier / Men</category>
+			<category id="343742547871">Hanowa / Men</category>
+			<category id="194620906991">Iron Annie / Men</category>
+			<category id="757085462751">Police / Men</category>
+			<category id="405425743531">Sequent / Men</category>
+			<category id="246298400221">Traser / Men</category>
+			<category id="939096026311">Zeppelin / Men</category>
+			<category id="464454417661">Women</category>
+			<category id="763652228831">Classic / Women</category>
+			<category id="550971980951">Casual / Women</category>
+			<category id="593764467861">Sport / Women</category>
+			<category id="746826300441">France / Women</category>
+			<category id="743910289231">Germany / Women</category>
+			<category id="744575092211">Switzerland / Women</category>
+			<category id="388765475291">Italy / Women</category>
+			<category id="983443096001">Chinese / Women</category>
+			<category id="378727421291">Ciga / Women</category>
+			<category id="651044174661">Pierre Lannier / Women</category>
+			<category id="788809242791">Hanowa / Women</category>
+			<category id="344322938971">Iron Annie / Women</category>
+			<category id="666614146681">Police / Women</category>
+			<category id="174869768931">Zeppelin / Women</category>
+			<category id="617497638031">Accessories</category>
+			<category id="867800824911">Accessories / Брелки</category>
+			<category id="868518063871">Accessories / Браслеты</category>
+			<category id="401662443891">Accessories / Ремешки</category>
+			<category id="759284784491">Accessories / Шкатулки</category>
+			<category id="991304955461">Accessories / Цепочки</category>
+			<category id="394761971341">Accessories / Запонки</category>
+			<category id="530727318261">Accessories / Ручки</category>
+			<category id="765473495931">Accessories / Партмоне</category>
+			<category id="206968157961">All</category>
+		</categories>
+		<offers>
+		<offer id="281570009331">
+			<name>Iron Annie Bauhaus men`s watch</name>
+			<vendor>Iron Annie</vendor>
+			<vendorCode>50862</vendorCode>
+			<picture>https://static.tildacdn.com/stor6263-6266-4836-b139-626266323763/23735415.jpg</picture>
+			<url>https://dom-chasov.kz/main/brands/iron-annie-for-her/tproduct/524640922-281570009331-iron-annie-bauhaus-mens-watch</url>
+			<count>1</count>
+			<price>307300.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>554721776401</categoryId>
+			<param name="Образ">Classic</param>
+			<param name="Диаметр">41 мм</param>
+			<param name="Механизм">Кварцевый</param>
+			<param name="Водонепроницаемость">5 bar</param>
+			<param name="Ремешок">Натуральная кожа</param>
+			<param name="Цвет циферблата">Черный</param>
+			<param name="Цвет корпуса">Стальной</param>
+		</offer>
+		<offer id="192674686161">
+			<name>Iron Annie Bauhaus Men`s watch</name>
+			<vendor>Iron Annie</vendor>
+			<vendorCode>50862_n</vendorCode>
+			<picture>https://static.tildacdn.com/stor3064-6266-4430-a430-653863353563/90203714.png</picture>
+			<url>https://dom-chasov.kz/main/brands/iron-annie-for-her/tproduct/524640922-192674686161-iron-annie-bauhaus-mens-watch</url>
+			<count>3</count>
+			<price>307300.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>310720303361</categoryId>
+			<param name="Образ">Casual</param>
+			<param name="Диаметр">41 мм</param>
+			<param name="Механизм">Кварцевый</param>
+			<param name="Водонепроницаемость">5 bar</param>
+			<param name="Ремешок">Веганская кожа</param>
+			<param name="Цвет циферблата">Черный</param>
+			<param name="Цвет корпуса">Стальной</param>
+		</offer>
+		<offer id="395211239941">
+			<name>Iron Annie Bauhaus men`s watch</name>
+			<vendor>Iron Annie</vendor>
+			<vendorCode>50863_n</vendorCode>
+			<picture>https://static.tildacdn.com/stor6432-6265-4534-b736-386639623138/12802292.jpg</picture>
+			<url>https://dom-chasov.kz/main/brands/iron-annie-for-her/tproduct/524640922-395211239941-iron-annie-bauhaus-mens-watch</url>
+			<count>1</count>
+			<price>307300.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>554721776401</categoryId>
+			<param name="Образ">Classic</param>
+			<param name="Диаметр">41 мм</param>
+			<param name="Механизм">Кварцевый</param>
+			<param name="Водонепроницаемость">5 bar</param>
+			<param name="Ремешок">Веганская кожа</param>
+			<param name="Цвет циферблата">Синий</param>
+			<param name="Цвет корпуса">Стальной</param>
+		</offer>
+		<offer id="784327292191">
+			<name>Iron Annie Bauhaus men`s watch</name>
+			<vendor>Iron Annie</vendor>
+			<vendorCode>56464</vendorCode>
+			<picture>https://static.tildacdn.com/stor6536-3663-4665-a362-323636303433/83995275.jpg</picture>
+			<url>https://dom-chasov.kz/main/brands/iron-annie-for-her/tproduct/524640922-784327292191-iron-annie-bauhaus-mens-watch</url>
+			<count>1</count>
+			<price>232600.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>554721776401</categoryId>
+			<param name="Образ">Classic</param>
+			<param name="Диаметр">42 мм</param>
+			<param name="Механизм">Кварцевый</param>
+			<param name="Водонепроницаемость">5 bar</param>
+			<param name="Ремешок">Натуральная кожа</param>
+			<param name="Цвет циферблата">Белый</param>
+			<param name="Цвет корпуса">Стальной</param>
+		</offer>
+		<offer id="339880436031">
+			<name>Iron Annie Bauhaus men`s watch</name>
+			<vendor>Iron Annie</vendor>
+			<vendorCode>51442</vendorCode>
+			<picture>https://static.tildacdn.com/stor3366-3739-4333-a166-643032356335/54686848.jpg</picture>
+			<url>https://dom-chasov.kz/main/brands/iron-annie-for-her/tproduct/524640922-339880436031-iron-annie-bauhaus-mens-watch</url>
+			<count>1</count>
+			<price>279300.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>310720303361</categoryId>
+			<param name="Образ">Casual</param>
+			<param name="Диаметр">42 мм</param>
+			<param name="Механизм">Кварцевый</param>
+			<param name="Водонепроницаемость">5 bar</param>
+			<param name="Ремешок">Натуральная кожа</param>
+			<param name="Цвет циферблата">Черный</param>
+			<param name="Цвет корпуса">Стальной</param>
+		</offer>
+    </offers>
+    </shop>
+</yml_catalog>
